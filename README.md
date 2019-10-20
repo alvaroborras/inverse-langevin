@@ -1,2 +1,4 @@
-# inverse-langevin
-Efficient computation of the Inverse Langevin Function
+# Inverse Langevin Function
+
+Efficient computation of the Inverse Langevin Function, as proposed in the paper
+``A simple and efficient numerical producedure to compute the inverse Langevin function with high accuracy'', by Benítez and Montáns.
